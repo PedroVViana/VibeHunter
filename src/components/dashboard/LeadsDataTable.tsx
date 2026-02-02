@@ -118,7 +118,7 @@ export function LeadsDataTable() {
                     </div>
                     <div className="max-w-xs mx-auto">
                       <p className="text-lg font-bold text-neutral-900">Nenhum resultado disponível</p>
-                      <p className="text-neutral-400 text-sm mt-1">Clique em "Começar Prospecção" para que o VibeHunter vasculhe a web.</p>
+                      <p className="text-neutral-400 text-sm mt-1">Clique em &quot;Começar Prospecção&quot; para que o VibeHunter vasculhe a web.</p>
                     </div>
                   </div>
                 </TableCell>
@@ -211,7 +211,7 @@ function ExpandableRow({ lead }: { lead: Lead }) {
                 <div>
                   <h4 className="text-sm font-bold text-neutral-400 uppercase tracking-widest mb-3">Dica de Abordagem para o Time Comercial</h4>
                   <div className="p-4 bg-white border border-neutral-100 rounded-2xl shadow-sm text-lg text-black leading-relaxed italic">
-                    "{lead.dica_abordagem || "Analisando conteúdo para gerar dica personalizada..."}"
+                    &quot;{lead.dica_abordagem || "Analisando conteúdo para gerar dica personalizada..."}&quot;
                   </div>
                 </div>
 

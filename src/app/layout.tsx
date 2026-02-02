@@ -10,7 +10,7 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title: "VibeHunter — Prospecção Inteligente de Leads",
-  description: "O futuro da prospecção. Scraper avançado com enriquecimento BrasilAPI em tempo real.",
+  description: "O futuro da prospecção. Scraper avançado com análise de IA em tempo real.",
 };
 
 import { Toaster } from "sonner";
