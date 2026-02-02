@@ -23,7 +23,7 @@ export default function DashboardPage() {
               VibeHunter
             </h1>
             <p className="text-xl text-neutral-500 max-w-xl leading-relaxed">
-              O futuro da prospecção inteligente. Nosso scraper avançado encontra leads inéditos, valida dados via BrasilAPI e os filtra em tempo real.
+              O futuro da prospecção inteligente. Nosso scraper avançado encontra leads inéditos e os filtra em tempo real.
             </p>
           </div>
           <div className="flex shrink-0">
